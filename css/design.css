@@ -1,0 +1,12 @@
+* {
+    background: blue;
+}
+
+#title {
+    text-align: center;
+    color: white;
+}
+
+.list1 li {
+    color: white;
+}
